@@ -1,0 +1,13 @@
+graph TD
+    A[Chronic Stress<br><img src='https://i.imgur.com/8Q9tX53.png' width='50px' height='50px'>] --> B[Increased HPA Axis Activity<br><img src='https://i.imgur.com/L44fQk8.png' width='50px' height='50px'>];
+    B --> C[Elevated Cortisol Levels<br><img src='https://i.imgur.com/6U2037r.png' width='50px' height='50px'>];
+    C --> D[Reduced Serotonergic Tone<br>(↓ 5-HT)<br><img src='https://i.imgur.com/8yU91jD.png' width='50px' height='50px'>];
+    D --> E[Impaired Mood Regulation<br><img src='https://i.imgur.com/r62g1T9.png' width='50px' height='50px'>];
+    E --> F[Increased Vulnerability<br>to Depression & Anxiety<br><img src='https://i.imgur.com/0v8U95E.png' width='50px' height='50px'>];
+
+    style A fill:#FFA07A,stroke:#333,stroke-width:2px;
+    style B fill:#FFFFE0,stroke:#333,stroke-width:2px;
+    style C fill:#FFFFE0,stroke:#333,stroke-width:2px;
+    style D fill:#FFFFE0,stroke:#333,stroke-width:2px;
+    style E fill:#FFFFE0,stroke:#333,stroke-width:2px;
+    style F fill:#F08080,stroke:#333,stroke-width:2px;
